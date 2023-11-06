@@ -1,0 +1,14 @@
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/bin/Debug/net6.0/HeroesVSMonsters
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/bin/Debug/net6.0/HeroesVSMonsters.deps.json
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/bin/Debug/net6.0/HeroesVSMonsters.runtimeconfig.json
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/bin/Debug/net6.0/HeroesVSMonsters.dll
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/bin/Debug/net6.0/HeroesVSMonsters.pdb
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.GeneratedMSBuildEditorConfig.editorconfig
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.AssemblyInfoInputs.cache
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.AssemblyInfo.cs
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.csproj.CoreCompileInputs.cache
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.dll
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/refint/HeroesVSMonsters.dll
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.pdb
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/HeroesVSMonsters.genruntimeconfig.cache
+/Users/adrianrodriguezzambrana/Desktop/Technofutur/Architecte Logiciel/DotNet/HeroesVSMonsters/HeroesVSMonsters/obj/Debug/net6.0/ref/HeroesVSMonsters.dll
